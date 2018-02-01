@@ -3,6 +3,10 @@ Github kullanımı hakkında bilgiler, ipuçları.
 Github, gist, Jeykll..
 README.md dosyası nasıl oluşturulur?
 
+# Örnek site:
+https://guides.github.com/features/mastering-markdown/
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 # Project Title
 
 One Paragraph of project description goes here
